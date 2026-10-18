@@ -1,6 +1,6 @@
                                                                                                 
-┌──(axmad㉿kali)-[~]
-└─$ cat ~/.BurpSuite/burpbrowser/146.0.7680.177/manifest.properties
+##┌──(axmad㉿kali)-[~]
+##└─$ cat ~/.BurpSuite/burpbrowser/146.0.7680.177/manifest.properties
 chrome:483445496;8000aa6eb2ddd935750f8faa3d6c53a1;exe;False;null
 chrome-wrapper:5061;7eaec8708298283453d7d4cf87389985;exe;False;null
 chrome_100_percent.pak:722374;144d8b4fe36a86c4cad8895a8fee19b9;non_exe;False;null
